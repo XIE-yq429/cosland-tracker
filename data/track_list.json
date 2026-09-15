@@ -1,0 +1,222 @@
+[
+ {
+  "row": 2,
+  "owner": "黎诗婷",
+  "link": "https://www.amazon.com/dp/B0H946M76B?th=1&psc=1",
+  "project": "男装牛仔格子长袖衬衫",
+  "parent": "B0H946H154",
+  "own_asin": "B0H946M76B",
+  "comp_link": "https://www.amazon.com/Dubinik%C2%AE-Shirts-Sleeve-Western-Vintage/dp/B0CV4QW8W6",
+  "comp_asin": "B0CV4QW8W6",
+  "price": null
+ },
+ {
+  "row": 3,
+  "owner": "黎诗婷",
+  "link": "https://www.amazon.com/gp/product/B07ML3C6LF",
+  "project": "纯色T",
+  "parent": "B07M7JWZ1C",
+  "own_asin": "B07ML3C6LF",
+  "comp_link": "https://www.amazon.com/Haloumoning-Sleeve-Shirts-Crewneck-T-Shirts/dp/B0DP99JYPW",
+  "comp_asin": "B0DP99JYPW",
+  "price": "13.99"
+ },
+ {
+  "row": 4,
+  "owner": "黎诗婷",
+  "link": "https://www.amazon.com/gp/product/B07ML3C6LF",
+  "project": "纯色T",
+  "parent": "B07M7JWZ1C",
+  "own_asin": "B07ML3C6LF",
+  "comp_link": "https://www.amazon.com/BOOPH-Shirts-Sleeve-T-Shirts-Clothes/dp/B0DZCX83FL",
+  "comp_asin": "B0DZCX83FL",
+  "price": "13.99"
+ },
+ {
+  "row": 5,
+  "owner": "黎诗婷",
+  "link": "https://www.amazon.com/gp/product/B07M9XFVLV?th=1&psc=1",
+  "project": "法兰绒",
+  "parent": "B09BC6QNGN",
+  "own_asin": "B07M9XFVLV",
+  "comp_link": "https://www.amazon.com/shulan-Dinosaur-Costumes-Toddler-Halloween/dp/B07Z39GG8Z",
+  "comp_asin": "B07Z39GG8Z",
+  "price": "24.5"
+ },
+ {
+  "row": 6,
+  "owner": "黎诗婷",
+  "link": "https://www.amazon.com/gp/product/B07M9XFVLV?th=1&psc=1",
+  "project": "法兰绒",
+  "parent": "B09BC6QNGN",
+  "own_asin": "B07M9XFVLV",
+  "comp_link": "https://www.amazon.com/qiaoniuniu-Halloween-Dinosaur-Costumes-Toddler/dp/B08FLDJFB2",
+  "comp_asin": "B08FLDJFB2",
+  "price": "24.5"
+ },
+ {
+  "row": 7,
+  "owner": "黎诗婷",
+  "link": "https://www.amazon.com/gp/product/B0H5KL8TZF",
+  "project": "男童牛仔格子长袖衬衫",
+  "parent": "B0DYS366LS",
+  "own_asin": "B0H5KL8TZF",
+  "comp_link": "https://www.amazon.com/Toddler-Casual-Sleeve-Western-Button/dp/B082GLTYNR",
+  "comp_asin": "B082GLTYNR",
+  "price": "19.99"
+ },
+ {
+  "row": 8,
+  "owner": "陈楚仪",
+  "link": "https://www.amazon.com/dp/B0H8BP2VZ4",
+  "project": "女童牛仔格子系带长袖衬衫",
+  "parent": "B0H8BP2VZ4",
+  "own_asin": "B0H8BP2VZ4",
+  "comp_link": "https://www.amazon.com/Noomelfish-Girls-Sleeve-Button-Blouse/dp/B0CGZD92CG/ref=sr_1_6?crid=1VP66AJCXREAZ&dib=eyJ2IjoiMSJ9.r2aoRuLG2j_VYXV_bc1zlgnYlEeCkTrkHULmOxfu0KBzc0nH1k0NPtLiKZftnX_E-LB3x5YwrSK1EQBKK0fszM4XVsv_ldtkvnyrKVybm4KNp-Owlj2deqRfyZ2Eh4DmmnBtH4tPBW1QeiQB6a7ol6EaElF8dqJx0hp3s8GsYtaC3m4P1TSDOYRR6scQZyevtE26e6BOGO7nHQaHWwHtLsC44j4BSdVfeL-ns0ng018SYLMFkNkxqlfSk9OU98Ou4P_1aP4IsSBCJIXHOn-Qt6T5Lw0tJizF_yDJIZwYvKk.atdPpwguY8Df-j0GW3A__2ikGMZARZ-N19JRaVe0mXA&dib_tag=se&keywords=girl%2Bcowgirl%2Bshirt%2Bfront%2Btie&qid=1788234328&sprefix=girl%2Bcowgirl%2Bshirt%2Bfront%2Btie%2Caps%2C370&sr=8-6&th=1&psc=1",
+  "comp_asin": "B0CGZD92CG",
+  "price": "19.99"
+ },
+ {
+  "row": 9,
+  "owner": "谭红梅",
+  "link": "https://www.amazon.com/dp/B0F9W4ZZYY?th=1&psc=1",
+  "project": "童装牛仔格子短袖衬衫",
+  "parent": "B0F9W4P3NG",
+  "own_asin": "B0F9W4ZZYY",
+  "comp_link": "https://www.amazon.com/gp/product/B07QDV762K?th=1&psc=1",
+  "comp_asin": "B07QDV762K",
+  "price": null
+ },
+ {
+  "row": 10,
+  "owner": "谭红梅",
+  "link": "https://www.amazon.com/dp/B0FHK2PM2N",
+  "project": "男童墨西哥风刺绣衬衫",
+  "parent": "B0FHK49D8J",
+  "own_asin": "B0FHK2PM2N",
+  "comp_link": "https://www.amazon.com/gp/product/B0BR9Z45P4?th=1&psc=1",
+  "comp_asin": "B0BR9Z45P4",
+  "price": null
+ },
+ {
+  "row": 11,
+  "owner": "谭红梅",
+  "link": "https://www.amazon.com/dp/B09DKDF2M2?th=1&psc=1",
+  "project": "中大童软帽牛仔套装",
+  "parent": "B0BTSQT9X5",
+  "own_asin": "B09DKDF2M2",
+  "comp_link": "https://www.amazon.com/dp/B0CW9J7QF8?th=1&psc=1",
+  "comp_asin": "B0CW9J7QF8",
+  "price": null
+ },
+ {
+  "row": 12,
+  "owner": "谭红梅",
+  "link": "https://www.amazon.com/dp/B0D5GVK6JC",
+  "project": "小童软帽牛仔套装",
+  "parent": "B0D5GVK6JC",
+  "own_asin": "B0D5GVK6JC",
+  "comp_link": "https://www.amazon.com/gp/product/B075MYJLBM?th=1&psc=1",
+  "comp_asin": "B075MYJLBM",
+  "price": null
+ },
+ {
+  "row": 13,
+  "owner": "谭红梅",
+  "link": "https://www.amazon.com/dp/B07GLCD9ZF?th=1&psc=1",
+  "project": "海盗连体套装",
+  "parent": "B07RPY6C7G",
+  "own_asin": "B07GLCD9ZF",
+  "comp_link": "https://www.amazon.com/gp/product/B075RR7GDX?th=1&psc=1",
+  "comp_asin": "B075RR7GDX",
+  "price": null
+ },
+ {
+  "row": 14,
+  "owner": "谭红梅",
+  "link": "https://www.amazon.com/dp/B0BVZH66QL?th=1&psc=1",
+  "project": "海盗分体套装",
+  "parent": "B0BVZH66QL",
+  "own_asin": "B0BVZH66QL",
+  "comp_link": "https://www.amazon.com/gp/product/B075RR7GDX?th=1&psc=1",
+  "comp_asin": "B075RR7GDX",
+  "price": null
+ },
+ {
+  "row": 15,
+  "owner": "方秀如",
+  "link": "https://www.amazon.com/dp/B0HBWFQ4SJ",
+  "project": "格子哈衣",
+  "parent": "B0HBWMDYVF",
+  "own_asin": "B0HBWFQ4SJ",
+  "comp_link": "https://www.amazon.com/Newborn-Outfit-Flannel-Bodysuit-Clothes/dp/B08FC2RM3N/ref=sr_1_6_sspa?crid=2R70ENI43SKRK&dib=eyJ2IjoiMSJ9.siSLF5UaON3w8ss8lzlKbvRLh60UlSN4bRCle9kKVXsHgc-N94HQkf3Qhn88vcHvlB1-Lpa_W0kjODYcm7HxBIp5mdEml_hnZKgOJMfrKGgfd4I-gP-OWmifdX2hwr5r4syquiKuPNwtbJUnIYxE9LW03DGy7wgz5dF76u5lQZ1YLkwU6Ic9h3lmdxknYUfQssPSWwMzL70UxGP-MUUb8on8UKQD9ivdQCBBU0eI7tXk5jw5Ta7-ap7CLmR5db6YMFLGMFWGyivadJ9bpQOGB2gI_HEqB322w6uFimY95EE.lOG2lEXFQLXau4-x3OsrrvhAbIfsmZQkWbAqwcoDF_E&dib_tag=se&keywords=baby%2Bplaid%2Bbodysuit&qid=1788491390&sprefix=baby%2Bplaid%2Bbodysuit%2Caps%2C808&sr=8-6-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&psc=1",
+  "comp_asin": "B08FC2RM3N",
+  "price": "18.99"
+ },
+ {
+  "row": 16,
+  "owner": "方秀如",
+  "link": "https://www.amazon.com/dp/B0HC78BJBW",
+  "project": "纯色牛仔衬衫",
+  "parent": "B0HC78BJBW",
+  "own_asin": "B0HC78BJBW",
+  "comp_link": "https://www.amazon.com/Spring-Gege-Western-Cowboys-Pockets/dp/B0FC66ZLNP/ref=sr_1_3?crid=1EEVV4J6F0KXN&dib=eyJ2IjoiMSJ9.uUjVaH6CMmGHeV07KD1i5uXsS90iZbvwpl5eWwnv7V4zZVo07Of1lyxOgTJvdXrHD7BUlroQLrakzeS8tFyUJh-hBs5y6Q_Kuy8f3rvTodN0HXlrJtL0iXz1Isgq2DeyBBlrTW7_vFDphqfFPslMLatE-cv3fdNlfWevI7SH5AsvE5sKtfTiIpVA3Sbd8tTcBgMIu2aXCsj2-SMy_QqQzkGMi9o4nRgrdUz5Jf6G4vOPaSy2Tcbddu6ZHr3j1W6yv3GoR6YQ_4gjeDduuIfp57grr3sa-RARyYti9dl_1zE.LmVeX3rm5U137JrRCH1N2CvWYJ3zyqR6zH7o88YEknE&dib_tag=se&keywords=boys%2Bcowboy%2Bshirt&qid=1776839390&sprefix=boys%2Bcowboy%2Bsh%2Caps%2C527&sr=8-3&th=1&psc=1",
+  "comp_asin": "B0FC66ZLNP",
+  "price": "22.99"
+ },
+ {
+  "row": 17,
+  "owner": "方秀如",
+  "link": "https://www.amazon.com/dp/B09G36CWC4",
+  "project": "条纹T",
+  "parent": "B09G36CWC4",
+  "own_asin": "B09G36CWC4",
+  "comp_link": "https://www.amazon.com/Spring-Gege-Striped-T-Shirt-Stripes/dp/B07QTY79ML/ref=sr_1_13?crid=1Z4Z0EIMWQ6E5&dib=eyJ2IjoiMSJ9.bOy5n7CfIDMEVSOXSzirMiqQHJ8F_SZ7OKBm8bCs46GlbYWAQMZVfDbzH9aTlX_sGXHGLhY03dFqqikcc48L8XDwl0P-6OkRjJLTuOzxjrTCCb1zeGtFcMKLc3rK0EQjoDmdWtLBSWDOw-HiJIDeEQMU6pqwwlWDTGUw5Fp3J8y1_16YaicWxv6qbbJv_M2VCABjHFzS8R2ITlnwBaSNjB9vKbJAPNESUUh_ZsdKFfUHk4HRqKBhgUsMBMVad4Tx8WFddbwIne8F7lcFZV0sfFpjW8uYfwmxrBXemniaB-Q.P8Qg0fijNMJx1--vFlmSQrgu6_MrULn8i6zWuYxGxD4&dib_tag=se&keywords=black+and+white+striped+shirt+kids&qid=1723686965&sprefix=black+and+white+striped+shirt+kids%2Caps%2C541&sr=8-13",
+  "comp_asin": "B07QTY79ML",
+  "price": "12.99"
+ },
+ {
+  "row": 18,
+  "owner": "李冠男",
+  "link": "https://www.amazon.com/dp/B0C8SGBLQH?ref=myi_title_dp",
+  "project": "粗条纹长袖条纹T",
+  "parent": "B0C8SGBLQH",
+  "own_asin": "B0C8SGBLQH",
+  "comp_link": "https://www.amazon.com/Spring-Gege-Striped-T-Shirt-Stripes/dp/B07ZR2VDRY?ref_=ast_sto_dp&th=1&psc=1",
+  "comp_asin": "B07ZR2VDRY",
+  "price": "16.99"
+ },
+ {
+  "row": 19,
+  "owner": "李冠男",
+  "link": "https://www.amazon.com/dp/B0D83MFN4F?ref=myi_title_dp",
+  "project": "细条纹长袖T",
+  "parent": "B0D83MFN4F",
+  "own_asin": "B0D83MFN4F",
+  "comp_link": "https://www.amazon.com/Spring-Gege-Striped-T-Shirt-Stripes/dp/B07ZR2VDRY?ref_=ast_sto_dp&th=1&psc=1",
+  "comp_asin": "B07ZR2VDRY",
+  "price": "16.99"
+ },
+ {
+  "row": 20,
+  "owner": "李冠男",
+  "link": "https://www.amazon.com/dp/B0CBPB77ZV?ref=myi_title_dp",
+  "project": "条纹Polo",
+  "parent": "B0CBPB77ZV",
+  "own_asin": "B0CBPB77ZV",
+  "comp_link": "https://www.amazon.com/dp/B0H13MBJTH/ref=mweb_up_am_fl_st_na_un_up_sm_web?th=1&psc=1",
+  "comp_asin": "B0H13MBJTH",
+  "price": "16.99"
+ },
+ {
+  "row": 21,
+  "owner": "谢燕琴",
+  "link": "https://www.amazon.ca/dp/B07H9V6GHW?ref=myi_title_dp",
+  "project": "加拿大牛仔三件套",
+  "parent": "B07H9V6GHW",
+  "own_asin": "B07H9V6GHW",
+  "comp_link": "https://www.amazon.ca/Cowboy-Outfits-Halloween-Costume-Romper/dp/B09WY1CGKF/ref=sr_1_1_sspa?crid=70ASVU6GSOO7&dib=eyJ2IjoiMSJ9.fzlEaJyDG-c8R67_OSiEpAkU86ycyDbMFPO8JnYokgg_xCHP5CCoSj8UlMVBpOcVSbqtA7Tjvx11mRal_14kvbP2-SGXLwM26icLDm3GRXD7Enqt3lT9omzorKaQz24L8bW9eKfjDLjVxoQ54MCJA8-OHJNH7pV17c9vuHAML_kYcBkhzfm3zrxEVFf-h43Cwx-uLKJtvGsGruGDMcELej3Gp0xUm749wTPPM6h_EYYJa78hP6CyByk2PmgLUNPpL9LtePqrvWbGiWO_cFZT452bB80D-jZLTI-BXah0QHM.uuxtVIwAWwUE3q4rLqDnhVDkvwAn4MeZxumFHQOccxY&dib_tag=se&keywords=baby%2Bcowboy%2Bcostume&qid=1761792996&sprefix=baby%2Bpirate%2Bcostume%2Caps%2C1860&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&psc=1",
+  "comp_asin": "B09WY1CGKF",
+  "price": null
+ }
+]
