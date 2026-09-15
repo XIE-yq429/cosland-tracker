@@ -638,7 +638,8 @@ async function apiOnline(){
   const notice=document.getElementById("addNotice");
   if(!(await apiOnline())){
     notice.innerHTML='<div class="notice">📦 <b>公网只读版</b>：本页为静态快照副本，数据截至 2026-09-14，新增监测功能仅在联网的主控电脑（<code>http://localhost:8765</code>）可用。日期切换、趋势图、自定义查询、建议等只读功能完全不受影响。</div>';
-    document.getElementById("fSubmit").disabled=true;
+    document.getElementById("fSubmit").disabled=false;
+    try{ window.__cosSetupAdd(); }catch(e){ document.getElementById("fSubmit").disabled=true; }
     return;
   }
   if(location.protocol==="file:"){
@@ -872,5 +873,41 @@ renderAll();
   if(q.query!==undefined){ queryCard.classList.add("open"); if(!qInited){ qInited=true; qDefaults(); renderQuery(); } setTimeout(()=>queryCardHd.scrollIntoView({behavior:"smooth",block:"start"}),200); }
 })();
 window.addEventListener("hashchange",()=>location.reload());
+</script>
+
+<script>
+/* 公网只读版：把「提交新增监测」按钮改造为「生成新增申请（复制后发给管理员）」 */
+function __cosSetupAdd(){
+  var btn=document.getElementById("fSubmit");
+  if(!btn||btn.getAttribute("data-cospub")==="1") return;
+  btn.setAttribute("data-cospub","1");
+  btn.textContent="生成新增申请（复制后发给管理员）";
+  btn.onclick=function(){
+    var g=function(id){var e=document.getElementById(id);return e?(e.value||"").trim():"";};
+    var owner=g("fOwner"),proj=g("fProject"),link=g("fLink"),asin=g("fAsin");
+    var cl=g("fCompLink"),ca=g("fCompAsin");
+    if(!owner||!proj||!link||!asin){
+      alert("请填写 4 项必填内容：负责人 / 项目名称 / 产品链接 / 产品 ASIN"); return;
+    }
+    var L=["【新增监测申请】","负责人："+owner,"项目名称："+proj,
+           "产品链接："+link,"产品ASIN："+asin];
+    if(cl) L.push("竞品链接："+cl);
+    if(ca) L.push("竞品ASIN："+ca);
+    var txt=L.join("\n");
+    var box=document.getElementById("addMsg");
+    if(!box){ alert(txt); return; }
+    box.className="addmsg ok";
+    box.innerHTML='<div style="margin-bottom:6px">已生成申请，复制后发给管理员即可（管理员在本机 http://localhost:8765 提交，或在 Excel 主表表尾加行）：</div>'
+      +'<textarea id="cosApplyTxt" readonly style="width:100%;height:130px;background:#0f1523;color:#e6edf3;border:1px solid #2b3446;border-radius:6px;padding:8px;font-size:12px;line-height:1.6"></textarea>'
+      +'<div style="margin-top:6px"><button class="btn-primary" id="cosCopyBtn">复制申请文本</button></div>';
+    document.getElementById("cosApplyTxt").value=txt;
+    document.getElementById("cosCopyBtn").onclick=function(){
+      var t=document.getElementById("cosApplyTxt"); t.select(); t.setSelectionRange(0,999999);
+      var ok=false; try{ ok=document.execCommand("copy"); }catch(e){}
+      if(!ok&&navigator.clipboard){ navigator.clipboard.writeText(txt); ok=true; }
+      this.textContent= ok? "已复制" : "复制失败，请手动全选";
+    };
+  };
+}
 </script>
 </body></html>
