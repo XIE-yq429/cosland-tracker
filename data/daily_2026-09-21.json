@@ -1,0 +1,1343 @@
+{
+ "date": "2026-09-21",
+ "rows": [
+  {
+   "row": 2,
+   "owner": "黎诗婷",
+   "project": "男装牛仔格子长袖衬衫",
+   "own_asin": "B0H946M76B",
+   "comp_asin": "B0CV4QW8W6",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Men's Western Shirt Cowboy Pearl Snap Long Sleeve Shirt | Classic Pearl Snap Cowboy Shirt, Durable Fabric, Vintage Style with Chest Pockets for Rodeo & Casual, Blue-White, M : Clot",
+    "price": 29.98,
+    "price_list": null,
+    "prices": [
+     "$29.98"
+    ],
+    "bsr": [
+     [
+      "632141",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "3612",
+      "Men's Button-Down Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.6",
+    "reviews": "989",
+    "cap": false,
+    "len": 2115339,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Dubinik® Western Shirt For Men's Long Sleeve Pearl Snap Plaid Casual Cowboy | Classic Pearl Snap, Two Chest Pockets, Pen Slot; Essentials Close For Work Or Vacation; Lightweight Breathable",
+    "price": 29.99,
+    "price_list": 39.99,
+    "prices": [
+     "$29.99"
+    ],
+    "bsr": [
+     [
+      "15891",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "234",
+      "Men's Button-Down Shirts"
+     ]
+    ],
+    "bought": "100+",
+    "rating": "4.5",
+    "reviews": "60037",
+    "cap": false,
+    "len": 2646751,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 3,
+   "owner": "黎诗婷",
+   "project": "纯色T",
+   "own_asin": "B07ML3C6LF",
+   "comp_asin": "B0DP99JYPW",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Toddler Boys Pink Shirt 100% Cotton Classic Short Sleeve Crewneck Pink Shirt for Boys, 4T: Clothing, Shoes & Jewelry",
+    "price": 9.99,
+    "price_list": 13.99,
+    "prices": [
+     "$9.99"
+    ],
+    "bsr": [
+     [
+      "8538",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "16",
+      "Boys' T-Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.6",
+    "reviews": "647",
+    "cap": false,
+    "len": 2671970,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Haloumoning Boys Short Sleeve Shirts Kids Summer Crewneck T-Shirts Casual Tops Tees 5-14 Years Yellow: Clothing, Shoes & Jewelry",
+    "price": 7.98,
+    "price_list": null,
+    "prices": [
+     "$7.98"
+    ],
+    "bsr": [
+     [
+      "6222",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "8",
+      "Boys' T-Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.7",
+    "reviews": "250",
+    "cap": false,
+    "len": 2826589,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 4,
+   "owner": "黎诗婷",
+   "project": "纯色T",
+   "own_asin": "B07ML3C6LF",
+   "comp_asin": "B0DZCX83FL",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Toddler Boys Pink Shirt 100% Cotton Classic Short Sleeve Crewneck Pink Shirt for Boys, 4T: Clothing, Shoes & Jewelry",
+    "price": 9.99,
+    "price_list": 13.99,
+    "prices": [
+     "$9.99"
+    ],
+    "bsr": [
+     [
+      "8538",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "16",
+      "Boys' T-Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.6",
+    "reviews": "647",
+    "cap": false,
+    "len": 2671970,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: BOOPH Boys Shirts Short Sleeve T-Shirts Kids Basic Crew Neck Tops Casual Cotton Tees Clothes 7-8 Years White: Clothing, Shoes & Jewelry",
+    "price": 7.99,
+    "price_list": 12.98,
+    "prices": [
+     "$7.99"
+    ],
+    "bsr": [
+     [
+      "5747",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "7",
+      "Boys' T-Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.7",
+    "reviews": "20",
+    "cap": false,
+    "len": 2782996,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 5,
+   "owner": "黎诗婷",
+   "project": "法兰绒",
+   "own_asin": "B07M9XFVLV",
+   "comp_asin": "B07Z39GG8Z",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Baby Dinosaur Costume Toddler Kids Dinosaur Costume Hooded Romper Jumpsuit Infant Boy Halloween Animal Outfit Green (3-6 Months) : Clothing, Shoes & Jewelry",
+    "price": 22.99,
+    "price_list": 24.5,
+    "prices": [
+     "$22.99"
+    ],
+    "bsr": [
+     [
+      "154155",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "329",
+      "Baby Boys' Costumes"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.7",
+    "reviews": "185",
+    "cap": false,
+    "len": 2546989,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Baby Green Dinosaur Costumes Unisex Toddler Outfit Halloween Dress Up Romper 12-18 Months : Clothing, Shoes & Jewelry",
+    "price": 26.9,
+    "price_list": null,
+    "prices": [
+     "$26.90"
+    ],
+    "bsr": [
+     [
+      "3688",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "2",
+      "Baby Boys' Costumes"
+     ]
+    ],
+    "bought": "100+",
+    "rating": "4.7",
+    "reviews": "185",
+    "cap": false,
+    "len": 2588673,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 6,
+   "owner": "黎诗婷",
+   "project": "法兰绒",
+   "own_asin": "B07M9XFVLV",
+   "comp_asin": "B08FLDJFB2",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Baby Dinosaur Costume Toddler Kids Dinosaur Costume Hooded Romper Jumpsuit Infant Boy Halloween Animal Outfit Green (3-6 Months) : Clothing, Shoes & Jewelry",
+    "price": 22.99,
+    "price_list": 24.5,
+    "prices": [
+     "$22.99"
+    ],
+    "bsr": [
+     [
+      "154155",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "329",
+      "Baby Boys' Costumes"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.7",
+    "reviews": "185",
+    "cap": false,
+    "len": 2546989,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: QIAONIUNIU Halloween Baby Green Dinosaur Costumes Toddler Outfit Infants Cosplay Romper 2-3 Years : Clothing, Shoes & Jewelry",
+    "price": 26.9,
+    "price_list": 44.95,
+    "prices": [
+     "$26.90"
+    ],
+    "bsr": [
+     [
+      "13401",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "9",
+      "Baby Girls' Costumes"
+     ]
+    ],
+    "bought": "100+",
+    "rating": "4.8",
+    "reviews": "1482",
+    "cap": false,
+    "len": 2766339,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 7,
+   "owner": "黎诗婷",
+   "project": "男童牛仔格子长袖衬衫",
+   "own_asin": "B0H5KL8TZF",
+   "comp_asin": "B082GLTYNR",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Boys Cowboy Long Sleeve Western Pearl Snap Button Down Plaid Shirt, Brown White, 11-12 Years : Clothing, Shoes & Jewelry",
+    "price": 22.5,
+    "price_list": 26.5,
+    "prices": [
+     "$22.50"
+    ],
+    "bsr": [
+     [
+      "121088",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "241",
+      "Boys' Button-Down Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.6",
+    "reviews": "54",
+    "cap": false,
+    "len": 2431054,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Boy's Toddler Kids Casual Long Sleeve Western Pearl Snap Button Up Plaid Shirt 4-16 Years (#27 Red Plaid, 4): Clothing, Shoes & Jewelry",
+    "price": 19.99,
+    "price_list": null,
+    "prices": [
+     "$19.99"
+    ],
+    "bsr": [
+     [
+      "116979",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "238",
+      "Boys' Button-Down Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.7",
+    "reviews": "43",
+    "cap": false,
+    "len": 2581362,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 8,
+   "owner": "陈楚仪",
+   "project": "女童牛仔格子系带长袖衬衫",
+   "own_asin": "B0H8BP2VZ4",
+   "comp_asin": "B0CGZD92CG",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Girls Western Shirt Pink Cowgirl Shirt Tie Front Button Down Top, Fuchsia, X-Small: Clothing, Shoes & Jewelry",
+    "price": 19.99,
+    "price_list": 26.99,
+    "prices": [
+     "$19.99"
+    ],
+    "bsr": [
+     [
+      "246072",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "170",
+      "Girls' Blouses & Button-Down Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.1",
+    "reviews": "7",
+    "cap": false,
+    "len": 1656437,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Noomelfish Girls Long Sleeve Plaid Button Down Shirt Tie Front Blouse Tops, Pink Plaid, Size 9-10 Years: Clothing, Shoes & Jewelry",
+    "price": 19.99,
+    "price_list": null,
+    "prices": [
+     "$19.99"
+    ],
+    "bsr": [
+     [
+      "68843",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "29",
+      "Girls' Blouses & Button-Down Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.6",
+    "reviews": "4341",
+    "cap": false,
+    "len": 2288474,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 9,
+   "owner": "谭红梅",
+   "project": "童装牛仔格子短袖衬衫",
+   "own_asin": "B0F9W4ZZYY",
+   "comp_asin": "B07QDV762K",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Boys Western Shirts Cowboy Pearl Snap Button Down Plaid Shirt, Red Checkered, 11-12 Years: Clothing, Shoes & Jewelry",
+    "price": 19.99,
+    "price_list": null,
+    "prices": [
+     "$19.99"
+    ],
+    "bsr": [
+     [
+      "184289",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "350",
+      "Boys' Button-Down Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.6",
+    "reviews": "10",
+    "cap": false,
+    "len": 2313726,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Gioberti Boys Casual Western Plaid Pearl Snap-on Buttons Short Sleeve Shirt, Red/Navy/White : Size 8: Clothing, Shoes & Jewelry",
+    "price": 23.99,
+    "price_list": null,
+    "prices": [
+     "$23.99"
+    ],
+    "bsr": [
+     [
+      "192032",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "363",
+      "Boys' Button-Down Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.8",
+    "reviews": "91",
+    "cap": false,
+    "len": 2697836,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 10,
+   "owner": "谭红梅",
+   "project": "男童墨西哥风刺绣衬衫",
+   "own_asin": "B0FHK2PM2N",
+   "comp_asin": "B0BR9Z45P4",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Guayabera Cuban Shirt for Boy Mexican Shirts for Kids, White, X-Small: Clothing, Shoes & Jewelry",
+    "price": 23.9,
+    "price_list": null,
+    "prices": [
+     "$23.90"
+    ],
+    "bsr": [
+     [
+      "297928",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "510",
+      "Boys' Button-Down Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.2",
+    "reviews": "662",
+    "cap": false,
+    "len": 1972912,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: JOGAL Boys Guayabera Shirts Cuban Casual Button Down Shirt White 6 | Pure Cotton, Camp Collar, Short Sleeve, Button Up, Regular Fit, for Mexican Wedding, Hawaiian, Summer, Beach, Kids 6-14",
+    "price": 21.99,
+    "price_list": null,
+    "prices": [
+     "$21.99",
+     "$19.99",
+     "$14.99",
+     "$9.99",
+     "$23.90",
+     "$26.99",
+     "$25.99",
+     "$25.99"
+    ],
+    "bsr": [
+     [
+      "22683",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "45",
+      "Boys' Button-Down Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.6",
+    "reviews": "250",
+    "cap": false,
+    "len": 2315841,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 11,
+   "owner": "谭红梅",
+   "project": "中大童软帽牛仔套装",
+   "own_asin": "B09DKDF2M2",
+   "comp_asin": "B0CW9J7QF8",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Baby Western Outfit Cowboy Costume for Boys, Brown, 12-18 Months : Clothing, Shoes & Jewelry",
+    "price": 22.99,
+    "price_list": null,
+    "prices": [
+     "$22.99"
+    ],
+    "bsr": [
+     [
+      "216177",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "378",
+      "Baby Boys' Costumes"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.2",
+    "reviews": "126",
+    "cap": false,
+    "len": 2403930,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Dressy Daisy Baby Boys Cowboy Costume Set with Vest Hat, 6-12 Months | Felt Hat, Vest, Bandana, Chaps Pants, Western Cowboy, Halloween, Wild West Party : Clothing, Shoes & Jewelry",
+    "price": 26.99,
+    "price_list": 27.99,
+    "prices": [
+     "$26.99"
+    ],
+    "bsr": [
+     [
+      "101091",
+      "Toys & Games"
+     ],
+     [
+      "4510",
+      "Kids' Costumes"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.4",
+    "reviews": "126",
+    "cap": false,
+    "len": 2061227,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 12,
+   "owner": "谭红梅",
+   "project": "小童软帽牛仔套装",
+   "own_asin": "B0D5GVK6JC",
+   "comp_asin": "B075MYJLBM",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Baby Cowboy Costume Infant Western Outfit 3-6 Months, Brown : Toys & Games",
+    "price": 19.99,
+    "price_list": null,
+    "prices": [
+     "$19.99"
+    ],
+    "bsr": [
+     [
+      "98573",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "123",
+      "Baby Boys' Costumes"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.5",
+    "reviews": "207",
+    "cap": false,
+    "len": 1788587,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Baby Boys' Western Cowboy Romper Sets With Scarf And Hat 0-6 Months: Clothing, Shoes & Jewelry",
+    "price": 19.99,
+    "price_list": null,
+    "prices": [
+     "$19.99"
+    ],
+    "bsr": [
+     [
+      "123911",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "356",
+      "Baby Boys' Pants Sets"
+     ]
+    ],
+    "bought": "50+",
+    "rating": "4.4",
+    "reviews": "104",
+    "cap": false,
+    "len": 2459340,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 13,
+   "owner": "谭红梅",
+   "project": "海盗连体套装",
+   "own_asin": "B07GLCD9ZF",
+   "comp_asin": "B075RR7GDX",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Baby Pirate Costume Boy Halloween Outfit, Black, 3-6 Months : Clothing, Shoes & Jewelry",
+    "price": 23.99,
+    "price_list": null,
+    "prices": [
+     "$23.99"
+    ],
+    "bsr": [
+     [
+      "465706",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "927",
+      "Baby Boys' Costumes"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.7",
+    "reviews": "137",
+    "cap": false,
+    "len": 2038453,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: LXKIKMM Kids Baby Boys Pirate Captain Costume, 18-24 Months | 4pcs Set, Cap Stinker, Toddler Costumes, Birthday, Halloween : Clothing, Shoes & Jewelry",
+    "price": 19.99,
+    "price_list": null,
+    "prices": [
+     "$19.99"
+    ],
+    "bsr": [
+     [
+      "126809",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "171",
+      "Baby Boys' Costumes"
+     ]
+    ],
+    "bought": "50+",
+    "rating": "4.6",
+    "reviews": "216",
+    "cap": false,
+    "len": 2568101,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 14,
+   "owner": "谭红梅",
+   "project": "海盗分体套装",
+   "own_asin": "B0BVZH66QL",
+   "comp_asin": "B075RR7GDX",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Baby Pirate Costume Boy Halloween Outfit, Black, 3-6 Months : Clothing, Shoes & Jewelry",
+    "price": 25.0,
+    "price_list": null,
+    "prices": [
+     "$25.00"
+    ],
+    "bsr": [
+     [
+      "567401",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "1107",
+      "Baby Boys' Costumes"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.6",
+    "reviews": "295",
+    "cap": false,
+    "len": 1748427,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: LXKIKMM Kids Baby Boys Pirate Captain Costume, 18-24 Months | 4pcs Set, Cap Stinker, Toddler Costumes, Birthday, Halloween : Clothing, Shoes & Jewelry",
+    "price": 19.99,
+    "price_list": null,
+    "prices": [
+     "$19.99"
+    ],
+    "bsr": [
+     [
+      "126809",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "171",
+      "Baby Boys' Costumes"
+     ]
+    ],
+    "bought": "50+",
+    "rating": "4.6",
+    "reviews": "216",
+    "cap": false,
+    "len": 2568101,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 15,
+   "owner": "方秀如",
+   "project": "格子哈衣",
+   "own_asin": "B0HBWFQ4SJ",
+   "comp_asin": "B08FC2RM3N",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Baby Boy Western Clothes Infant Flannel Bodysuit, Green and Red, 12-18 Months : Clothing, Shoes & Jewelry",
+    "price": 26.8,
+    "price_list": null,
+    "prices": [
+     "$26.80"
+    ],
+    "bsr": [],
+    "bought": null,
+    "rating": null,
+    "reviews": null,
+    "cap": false,
+    "len": 991374,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: HAPPYMA Newborn Outfit Baby Romper Boy Girls Flannel Bodysuit | Infant Plaid Jumpsuit, Long Sleeve, Button Down, Fall Winter Clothes, Orange, 0-3 Months: Clothing, Shoes & Jewelry",
+    "price": 17.99,
+    "price_list": 19.95,
+    "prices": [
+     "$17.99"
+    ],
+    "bsr": [
+     [
+      "42028",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "45",
+      "Baby Boys' One-Piece Rompers"
+     ],
+     [
+      "1062",
+      "Baby Girls' One-Piece Rompers"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.6",
+    "reviews": "42",
+    "cap": false,
+    "len": 2334725,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 16,
+   "owner": "方秀如",
+   "project": "纯色牛仔衬衫",
+   "own_asin": "B0HC78BJBW",
+   "comp_asin": "B0FC66ZLNP",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Toddler Boys Western Shirts Pearl Snap Long Sleeve Denim Top, Black, 4T: Clothing, Shoes & Jewelry",
+    "price": 25.9,
+    "price_list": null,
+    "prices": [
+     "$25.90"
+    ],
+    "bsr": [],
+    "bought": null,
+    "rating": null,
+    "reviews": null,
+    "cap": false,
+    "len": 1244971,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Spring&Gege Boys' Long Sleeve Casual Western Cowboys Pearl Snap Button Down Shirts with Two Pockets, Khaki, Size 9-10 Years: Clothing, Shoes & Jewelry",
+    "price": 22.99,
+    "price_list": null,
+    "prices": [
+     "$22.99"
+    ],
+    "bsr": [
+     [
+      "28036",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "61",
+      "Boys' Button-Down Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.7",
+    "reviews": "518",
+    "cap": false,
+    "len": 2470902,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 17,
+   "owner": "方秀如",
+   "project": "条纹T",
+   "own_asin": "B09G36CWC4",
+   "comp_asin": "B07QTY79ML",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Toddler Boys Black and White Short Sleeve Striped Shirt, Black and White, 2T: Clothing, Shoes & Jewelry",
+    "price": 9.99,
+    "price_list": 16.99,
+    "prices": [
+     "$9.99"
+    ],
+    "bsr": [
+     [
+      "80635",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "461",
+      "Boys' T-Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.6",
+    "reviews": "105",
+    "cap": false,
+    "len": 2088313,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Spring&Gege Boys' Short Sleeve Striped T-Shirt Cotton Crew Neck Tees, Black and White Stripes, 9-10 Years: Clothing, Shoes & Jewelry",
+    "price": 9.99,
+    "price_list": 16.99,
+    "prices": [
+     "$9.99"
+    ],
+    "bsr": [
+     [
+      "79742",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "283",
+      "Boys' T-Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.6",
+    "reviews": "165",
+    "cap": false,
+    "len": 2467782,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 18,
+   "owner": "李冠男",
+   "project": "粗条纹长袖条纹T",
+   "own_asin": "B0C8SGBLQH",
+   "comp_asin": "B07ZR2VDRY",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Toddler Boys Black and White Long Sleeve Striped Shirt, Black and White, 2T : Clothing, Shoes & Jewelry",
+    "price": 12.99,
+    "price_list": 14.99,
+    "prices": [
+     "$12.99"
+    ],
+    "bsr": [
+     [
+      "119713",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "101",
+      "Boys' Activewear T-Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.6",
+    "reviews": "105",
+    "cap": false,
+    "len": 2057237,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Spring&Gege Boys' Long Sleeve Striped T-Shirt Crew Neck Tees, Red and White Stripes, 9-10 Years: Clothing, Shoes & Jewelry",
+    "price": 19.99,
+    "price_list": null,
+    "prices": [
+     "$19.99"
+    ],
+    "bsr": [
+     [
+      "193248",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "750",
+      "Boys' T-Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.5",
+    "reviews": "249",
+    "cap": false,
+    "len": 2384769,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 19,
+   "owner": "李冠男",
+   "project": "细条纹长袖T",
+   "own_asin": "B0D83MFN4F",
+   "comp_asin": "B07ZR2VDRY",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Boys Black and White Striped Long Sleeve Shirt Basic Top for Kids, Black and White, X-Small : Clothing, Shoes & Jewelry",
+    "price": 19.9,
+    "price_list": 24.99,
+    "prices": [
+     "$19.90"
+    ],
+    "bsr": [
+     [
+      "398334",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "24721",
+      "Boys' Fashion"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.7",
+    "reviews": "105",
+    "cap": false,
+    "len": 1786778,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Spring&Gege Boys' Long Sleeve Striped T-Shirt Crew Neck Tees, Red and White Stripes, 9-10 Years: Clothing, Shoes & Jewelry",
+    "price": 19.99,
+    "price_list": null,
+    "prices": [
+     "$19.99"
+    ],
+    "bsr": [
+     [
+      "193248",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "750",
+      "Boys' T-Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.5",
+    "reviews": "249",
+    "cap": false,
+    "len": 2384769,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 20,
+   "owner": "李冠男",
+   "project": "条纹Polo",
+   "own_asin": "B0CBPB77ZV",
+   "comp_asin": "B0H13MBJTH",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Black and White Boys Striped Polo Shirt, Black & White, X-Small: Clothing, Shoes & Jewelry",
+    "price": 19.99,
+    "price_list": 27.95,
+    "prices": [
+     "$19.99"
+    ],
+    "bsr": [
+     [
+      "439762",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "243",
+      "Boys' Polo Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.7",
+    "reviews": "614",
+    "cap": false,
+    "len": 1907508,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Kids4ever Boys Striped Shirt Summer Polo T-Shirt Short Sleeve Kids Top 6-7Y | Wrinkle-Resistant No-Iron Polyester-Spandex Fabric, Red Polo Style For School, Stretch Flexible For Sports: Cl",
+    "price": 9.99,
+    "price_list": 27.95,
+    "prices": [
+     "$9.99"
+    ],
+    "bsr": [
+     [
+      "301318",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "64",
+      "Boys' Activewear Polos"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.3",
+    "reviews": "56",
+    "cap": false,
+    "len": 1968147,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 21,
+   "owner": "谢燕琴",
+   "project": "加拿大牛仔三件套",
+   "own_asin": "B07H9V6GHW",
+   "comp_asin": "B09WY1CGKF",
+   "own": {
+    "ok": true,
+    "title": "MOMBEBE COSLAND Cowboy Outfit Baby Western Set Infant Boys' Halloween Outfits, 18-24Months : Amazon.ca: Clothing, Shoes & Accessories",
+    "price": 36.99,
+    "price_list": null,
+    "prices": [
+     "$36.99"
+    ],
+    "bsr": [
+     [
+      "18672",
+      "Toys & Games"
+     ],
+     [
+      "106",
+      "Baby Costumes"
+     ]
+    ],
+    "bought": null,
+    "rating": "3.9",
+    "reviews": "2,008",
+    "cap": false,
+    "len": 2180194,
+    "site": "www.amazon.ca",
+    "currency": "CAD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Baby Cowboy Outfits Boys Halloween Costume Romper with Hat and Scarf : Amazon.ca: Toys & Games",
+    "price": 38.9,
+    "price_list": 47.99,
+    "prices": [
+     "$38.90"
+    ],
+    "bsr": [
+     [
+      "19617",
+      "Toys & Games"
+     ],
+     [
+      "887",
+      "Kids' & Toddlers' Costumes"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.3",
+    "reviews": "85",
+    "cap": false,
+    "len": 2012929,
+    "site": "www.amazon.ca",
+    "currency": "CAD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 22,
+   "owner": "谢燕琴",
+   "project": "加拿大儿童骨架睡衣",
+   "own_asin": "B08ZXVP7CY",
+   "comp_asin": "B0D5XKZ1MH",
+   "own": {
+    "ok": true,
+    "title": "MOMBEBE COSLAND Kids Skeleton Pajamas Glow in The Dark Boys Halloween Costume Size 3T : Amazon.ca: Toys & Games",
+    "price": 35.99,
+    "price_list": null,
+    "prices": [
+     "$35.99"
+    ],
+    "bsr": [
+     [
+      "27262",
+      "Clothing, Shoes & Accessories"
+     ],
+     [
+      "891",
+      "Costumes"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.2",
+    "reviews": "3,409",
+    "cap": false,
+    "len": 1699373,
+    "site": "www.amazon.ca",
+    "currency": "CAD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Trsenvrml Halloween Pajamas Kids for Boys Girls Glowing Skeleton Halloween PJS for Toddler Nightwear Clothes Cotton Sleepwear (Skeleton Black, 5-6 Years) : Amazon.ca: Clothing, Shoes & Accessories",
+    "price": 24.99,
+    "price_list": null,
+    "prices": [
+     "$24.99"
+    ],
+    "bsr": [
+     [
+      "2548",
+      "Clothing, Shoes & Accessories"
+     ],
+     [
+      "3",
+      "Boys' Pajama Sets"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.5",
+    "reviews": "1,247",
+    "cap": false,
+    "len": 1729937,
+    "site": "www.amazon.ca",
+    "currency": "CAD",
+    "price_source": "pay"
+   }
+  },
+  {
+   "row": 23,
+   "owner": "陈楚仪",
+   "project": "女童牛仔格子系带长袖衬衫",
+   "own_asin": "B0H8BP2VZ4",
+   "comp_asin": "B0H9XRJLH9",
+   "own": {
+    "ok": true,
+    "title": "Amazon.com: COSLAND Girls Western Shirt Pink Cowgirl Shirt Tie Front Button Down Top, Fuchsia, X-Small: Clothing, Shoes & Jewelry",
+    "price": 19.99,
+    "price_list": 26.99,
+    "prices": [
+     "$19.99"
+    ],
+    "bsr": [
+     [
+      "246072",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "170",
+      "Girls' Blouses & Button-Down Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.1",
+    "reviews": "7",
+    "cap": false,
+    "len": 1656437,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   },
+   "comp": {
+    "ok": true,
+    "title": "Amazon.com: Girls Western Long Sleeve Shirt, Cowgirl Button Down Gingham Tie Front Top with Pearl Snap Buttons, Country Rodeo Casual Shirt for Girls 5-12T (Red,5-6 Y): Clothing, Shoes & Jewelry",
+    "price": 21.99,
+    "price_list": null,
+    "prices": [
+     "$21.99"
+    ],
+    "bsr": [
+     [
+      "117504",
+      "Clothing, Shoes & Jewelry"
+     ],
+     [
+      "62",
+      "Girls' Blouses & Button-Down Shirts"
+     ]
+    ],
+    "bought": null,
+    "rating": "4.7",
+    "reviews": "77",
+    "cap": false,
+    "len": 1895097,
+    "site": "www.amazon.com",
+    "currency": "USD",
+    "price_source": "pay"
+   }
+  }
+ ],
+ "blocked": false,
+ "ok_count": 39,
+ "total_asin": 39
+}
