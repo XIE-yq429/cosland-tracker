@@ -27,9 +27,9 @@
     ],
     "bought": null,
     "rating": "4.6",
-    "reviews": "1,514",
+    "reviews": "88",
     "cap": false,
-    "len": 1643883,
+    "len": 1694734,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -44,7 +44,7 @@
     ],
     "bsr": [
      [
-      "29877",
+      "29872",
       "Clothing, Shoes & Jewelry"
      ],
      [
@@ -56,7 +56,7 @@
     "rating": "4.7",
     "reviews": "59988",
     "cap": false,
-    "len": 2222232,
+    "len": 2221774,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -90,7 +90,7 @@
     "rating": "4.6",
     "reviews": "474",
     "cap": false,
-    "len": 2322936,
+    "len": 2199941,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -117,7 +117,7 @@
     "rating": "4.6",
     "reviews": "474",
     "cap": false,
-    "len": 2227043,
+    "len": 2226710,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -151,7 +151,7 @@
     "rating": "4.6",
     "reviews": "474",
     "cap": false,
-    "len": 2322936,
+    "len": 2199941,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -178,7 +178,7 @@
     "rating": "4.4",
     "reviews": "474",
     "cap": false,
-    "len": 1987080,
+    "len": 1976928,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -212,7 +212,7 @@
     "rating": "4.6",
     "reviews": "686",
     "cap": false,
-    "len": 2248873,
+    "len": 2076302,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -239,7 +239,7 @@
     "rating": "4.8",
     "reviews": "4,169",
     "cap": false,
-    "len": 2235788,
+    "len": 2071364,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -273,7 +273,7 @@
     "rating": "4.6",
     "reviews": "686",
     "cap": false,
-    "len": 2248873,
+    "len": 2076302,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -300,7 +300,7 @@
     "rating": "4.8",
     "reviews": "5,222",
     "cap": false,
-    "len": 2059207,
+    "len": 2059416,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -334,7 +334,7 @@
     "rating": "4.6",
     "reviews": "1,287",
     "cap": false,
-    "len": 1839291,
+    "len": 1838810,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -343,7 +343,7 @@
     "ok": true,
     "title": "Amazon.com: Boy's Toddler Kids Casual Long Sleeve Western Pearl Snap Button Up Plaid Shirt 4-16 Years (#27 Red Plaid, 4): Clothing, Shoes & Jewelry",
     "price": 19.99,
-    "price_list": 19.99,
+    "price_list": null,
     "prices": [
      "$19.99"
     ],
@@ -359,9 +359,9 @@
     ],
     "bought": null,
     "rating": "4.7",
-    "reviews": "2,455",
+    "reviews": "2,361",
     "cap": false,
-    "len": 2131756,
+    "len": 2168658,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -395,7 +395,7 @@
     "rating": "4.4",
     "reviews": "344",
     "cap": false,
-    "len": 1581208,
+    "len": 1581242,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -410,7 +410,7 @@
     ],
     "bsr": [
      [
-      "30898",
+      "30893",
       "Clothing, Shoes & Jewelry"
      ],
      [
@@ -422,7 +422,7 @@
     "rating": "4.6",
     "reviews": "9",
     "cap": false,
-    "len": 1952177,
+    "len": 1953580,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -456,7 +456,7 @@
     "rating": "4.7",
     "reviews": "59",
     "cap": false,
-    "len": 1834311,
+    "len": 1834751,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -481,9 +481,9 @@
     ],
     "bought": null,
     "rating": "4.8",
-    "reviews": "90",
+    "reviews": "1,131",
     "cap": false,
-    "len": 2344907,
+    "len": 2130763,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -517,7 +517,7 @@
     "rating": "4.2",
     "reviews": "586",
     "cap": false,
-    "len": 1600933,
+    "len": 1601224,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -551,7 +551,7 @@
     "rating": "4.6",
     "reviews": "586",
     "cap": false,
-    "len": 1936044,
+    "len": 1944914,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -585,7 +585,7 @@
     "rating": "4.3",
     "reviews": "104",
     "cap": false,
-    "len": 2045546,
+    "len": 1939857,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -612,7 +612,7 @@
     "rating": "4.5",
     "reviews": "104",
     "cap": false,
-    "len": 1530712,
+    "len": 1530537,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -646,7 +646,7 @@
     "rating": "4.6",
     "reviews": "82",
     "cap": false,
-    "len": 1751835,
+    "len": 1751838,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -673,7 +673,7 @@
     "rating": "4.4",
     "reviews": "104",
     "cap": false,
-    "len": 2133729,
+    "len": 2024175,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -707,7 +707,7 @@
     "rating": "4.7",
     "reviews": "956",
     "cap": false,
-    "len": 1896684,
+    "len": 1803882,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -734,7 +734,7 @@
     "rating": "4.6",
     "reviews": "328",
     "cap": false,
-    "len": 2136173,
+    "len": 1999036,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -768,7 +768,7 @@
     "rating": "4.6",
     "reviews": "328",
     "cap": false,
-    "len": 1693344,
+    "len": 1693413,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -795,7 +795,7 @@
     "rating": "4.6",
     "reviews": "328",
     "cap": false,
-    "len": 2136173,
+    "len": 1999036,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -829,7 +829,7 @@
     "rating": "5.0",
     "reviews": "1,314",
     "cap": false,
-    "len": 1567539,
+    "len": 1576006,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -860,7 +860,7 @@
     "rating": "4.6",
     "reviews": "75",
     "cap": false,
-    "len": 1535533,
+    "len": 1535733,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -894,7 +894,7 @@
     "rating": "3.0",
     "reviews": "297",
     "cap": false,
-    "len": 1591003,
+    "len": 1598484,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -921,7 +921,7 @@
     "rating": "4.4",
     "reviews": "27",
     "cap": false,
-    "len": 2023566,
+    "len": 2023531,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -937,7 +937,7 @@
     "ok": true,
     "title": "Amazon.com: COSLAND Toddler Boys Black and White Short Sleeve Striped Shirt, Black and White, 2T: Clothing, Shoes & Jewelry",
     "price": 9.99,
-    "price_list": 14.98,
+    "price_list": null,
     "prices": [
      "$9.99"
     ],
@@ -955,7 +955,7 @@
     "rating": "4.5",
     "reviews": "118",
     "cap": false,
-    "len": 2068674,
+    "len": 2037586,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -982,7 +982,7 @@
     "rating": "4.6",
     "reviews": "366",
     "cap": false,
-    "len": 2243308,
+    "len": 2099132,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -1014,9 +1014,9 @@
     ],
     "bought": null,
     "rating": "4.6",
-    "reviews": "74",
+    "reviews": "2,022",
     "cap": false,
-    "len": 1917182,
+    "len": 2065098,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -1043,7 +1043,7 @@
     "rating": "4.5",
     "reviews": "189",
     "cap": false,
-    "len": 2102628,
+    "len": 1949712,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -1077,7 +1077,7 @@
     "rating": "4.6",
     "reviews": "118",
     "cap": false,
-    "len": 1650711,
+    "len": 1650816,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -1104,7 +1104,7 @@
     "rating": "4.5",
     "reviews": "189",
     "cap": false,
-    "len": 2102628,
+    "len": 1949712,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -1138,7 +1138,7 @@
     "rating": "4.7",
     "reviews": "174",
     "cap": false,
-    "len": 1805163,
+    "len": 1808244,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -1165,7 +1165,7 @@
     "rating": "4.7",
     "reviews": "20",
     "cap": false,
-    "len": 1559433,
+    "len": 1560887,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -1197,9 +1197,9 @@
     ],
     "bought": null,
     "rating": "4.0",
-    "reviews": "3,220",
+    "reviews": "2,039",
     "cap": false,
-    "len": 1810744,
+    "len": 1790566,
     "site": "www.amazon.ca",
     "currency": "CAD",
     "price_source": "pay"
@@ -1224,9 +1224,9 @@
     ],
     "bought": null,
     "rating": "4.3",
-    "reviews": "1",
+    "reviews": "102",
     "cap": false,
-    "len": 1814010,
+    "len": 1814105,
     "site": "www.amazon.ca",
     "currency": "CAD",
     "price_source": "pay"
@@ -1260,7 +1260,7 @@
     "rating": "4.2",
     "reviews": "3,411",
     "cap": false,
-    "len": 1590354,
+    "len": 1590529,
     "site": "www.amazon.ca",
     "currency": "CAD",
     "price_source": "pay"
@@ -1287,7 +1287,7 @@
     "rating": "4.5",
     "reviews": "3,411",
     "cap": false,
-    "len": 1890993,
+    "len": 1960304,
     "site": "www.amazon.ca",
     "currency": "CAD",
     "price_source": "pay"
@@ -1321,7 +1321,7 @@
     "rating": "4.4",
     "reviews": "344",
     "cap": false,
-    "len": 1581208,
+    "len": 1581242,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -1348,7 +1348,7 @@
     "rating": "4.8",
     "reviews": "9",
     "cap": false,
-    "len": 1374771,
+    "len": 1365890,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -1382,7 +1382,7 @@
     "rating": "3.9",
     "reviews": "2,039",
     "cap": false,
-    "len": 1527490,
+    "len": 1527409,
     "site": "www.amazon.ca",
     "currency": "CAD",
     "price_source": "pay"
@@ -1397,7 +1397,7 @@
     ],
     "bsr": [
      [
-      "1586",
+      "1585",
       "Toys & Games"
      ],
      [
@@ -1409,7 +1409,7 @@
     "rating": "4.4",
     "reviews": "8",
     "cap": false,
-    "len": 1861410,
+    "len": 1861808,
     "site": "www.amazon.ca",
     "currency": "CAD",
     "price_source": "pay"
@@ -1443,7 +1443,7 @@
     "rating": "4.4",
     "reviews": "8,535",
     "cap": false,
-    "len": 1548456,
+    "len": 1557292,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -1470,7 +1470,7 @@
     "rating": "4.6",
     "reviews": "59988",
     "cap": false,
-    "len": 2186384,
+    "len": 2186245,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -1504,7 +1504,7 @@
     "rating": "4.6",
     "reviews": "82",
     "cap": false,
-    "len": 1751835,
+    "len": 1751838,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
@@ -1531,7 +1531,7 @@
     "rating": "4.6",
     "reviews": "387",
     "cap": false,
-    "len": 1792826,
+    "len": 1794506,
     "site": "www.amazon.com",
     "currency": "USD",
     "price_source": "pay"
